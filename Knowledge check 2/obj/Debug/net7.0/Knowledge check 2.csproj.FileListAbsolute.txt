@@ -1,0 +1,15 @@
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/bin/Debug/net7.0/Knowledge check 2
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/bin/Debug/net7.0/Knowledge check 2.deps.json
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/bin/Debug/net7.0/Knowledge check 2.runtimeconfig.json
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/bin/Debug/net7.0/Knowledge check 2.dll
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/bin/Debug/net7.0/Knowledge check 2.pdb
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.csproj.AssemblyReference.cache
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.AssemblyInfoInputs.cache
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.AssemblyInfo.cs
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.csproj.CoreCompileInputs.cache
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.dll
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/refint/Knowledge check 2.dll
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.pdb
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/Knowledge check 2.genruntimeconfig.cache
+/Users/Brandon/Projects/Knowledge check 2/Knowledge check 2/obj/Debug/net7.0/ref/Knowledge check 2.dll
